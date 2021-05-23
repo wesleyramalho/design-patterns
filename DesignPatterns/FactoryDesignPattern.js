@@ -8,7 +8,7 @@ const TESTER_TYPE = 2;
 function Developer(name)
 {
   this.name = name
-  this.type = "Software Developer"
+  this.type = "Software Developer from popstand"
 }
 
 function Tester(name)
